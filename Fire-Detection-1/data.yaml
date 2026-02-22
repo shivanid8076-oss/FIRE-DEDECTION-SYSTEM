@@ -1,0 +1,14 @@
+names:
+- fire
+- other
+- smoke
+nc: 3
+roboflow:
+  license: CC BY 4.0
+  project: fire-detection-sejra
+  url: https://universe.roboflow.com/fire-dataset-tp9jt/fire-detection-sejra/dataset/1
+  version: 1
+  workspace: fire-dataset-tp9jt
+test: C:/Users/asus/OneDrive/Desktop/forest_fire-smoke/Fire-Detection-1/test/images
+train: C:/Users/asus/OneDrive/Desktop/forest_fire-smoke/Fire-Detection-1/train/images
+val: C:/Users/asus/OneDrive/Desktop/forest_fire-smoke/Fire-Detection-1/val/images
