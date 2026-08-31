@@ -8,3 +8,4 @@ streamlit-folium
 requests
 openai
 Pillow
+twilio
